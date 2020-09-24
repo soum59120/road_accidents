@@ -1,4 +1,4 @@
-##  ACCIDENTS DE LA ROUTE A PARIS/VERSAILLES (2015-2016) 
+##  GRAVITE CORPORELLE DES ACCIDENTS DE LA ROUTE A PARIS/VERSAILLES (2015-2016) 
 * Données disponibles dans le dossier "/data"
 * Packages utiles à importer lister dans le fichier: "requirements.txt" 
 

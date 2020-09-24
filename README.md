@@ -31,5 +31,5 @@
 ## Disponible sur le lien suivant : https://elabboutisoumaya.shinyapps.io/MapTrafficAccidents/ 
 
 Aperçu de l'application ci-joint : 
-![Capture_d_écran_2020-09-24_à_17.48.02](/uploads/8adda0647a32257876afdc9a3605e7fc/Capture_d_écran_2020-09-24_à_17.48.02.png)
-![Capture_d_écran_2020-09-24_à_17.48.28](/uploads/547ca331b8c40f2cc0150a3797fbda34/Capture_d_écran_2020-09-24_à_17.48.28.png)
+![Capture d’écran 2020-09-24 à 17 48 02](https://user-images.githubusercontent.com/47501144/94169346-fb1cc800-fe8e-11ea-9b9d-52eabea1181c.png)
+![Capture d’écran 2020-09-24 à 17 48 28](https://user-images.githubusercontent.com/47501144/94169361-feb04f00-fe8e-11ea-82b4-233b2652f2f5.png)

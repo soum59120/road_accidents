@@ -40,7 +40,7 @@ ui <- dashboardPage(skin = "black", # Haut de page de couleur noir
                       tabItems( #TabItems est un tableau qui rassemble tous les tabitem (onglet)
                         tabItem(tabName = "map_road", #clé qui relie au menuItem (onglet)
                                 fluidRow(
-                                  titlePanel(h4("Cartographique de la Gravité Corporelle des Accidents de la Route", align = "center")),
+                                  titlePanel(h4("Cartographie de la Gravité Corporelle des Accidents de la Route", align = "center")),
                                   leafletOutput("mymap", height = "600"),
                                 )),
                         

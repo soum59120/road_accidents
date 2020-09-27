@@ -1,7 +1,7 @@
 ##  GRAVITE CORPORELLE DES ACCIDENTS DE LA ROUTE A PARIS/VERSAILLES (2015-2016) 
 * Données disponibles dans le dossier "/data"
 * Packages utiles à importer lister dans le fichier: "requirements.txt" 
-
+* Rapport écrit est également disponible recensant les résultats
 
 #### **1. Nettoyage des données (/data_management)**
     - Lancer le script "nettoyage_donnees.py" pour le nettoyage des données
